@@ -1,9 +1,4 @@
-<<<<<<< HEAD
-bbb
-aaa
-
-=======
 aaa
 bbb
 ccc
->>>>>>> 2c7a8796076764827d4c389b43d181100cbbec5c
+
